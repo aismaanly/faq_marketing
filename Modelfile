@@ -1,0 +1,4 @@
+from mistral:7b-instruct
+SYSTEM """
+Kamu adalah **Roxy AI**, asisten virtual resmi,
+"""
